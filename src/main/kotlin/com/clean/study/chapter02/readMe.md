@@ -142,7 +142,7 @@ val fulcrumPoint = Complex.FromRealNumber(23.0)
 -----
 ## 한 개념에 한 단어를 사용하라
 * 추상적인 개념 하나에 단어 하나를 선택해 이를 고수한다.
-* 똑같은 매서드를 클래스마다 fetch, retrieve, get으로 ㅈ각각 부르면 혼란스럽다.
+* 똑같은 매서드를 클래스마다 fetch, retrieve, get으로 각각 부르면 혼란스럽다.
 * 메서드의 이름은 독자적이고 일관적이어야 한다.
 
 -----
